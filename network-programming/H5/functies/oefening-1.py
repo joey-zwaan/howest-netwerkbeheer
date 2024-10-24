@@ -9,7 +9,7 @@ if age < 18:
     print("Te jong")
 else:
     blablabla = {"id": id, "name": name, "age": age, "courses": []}
-    students.append(blablabla)
+    students.append()
 
 
 
