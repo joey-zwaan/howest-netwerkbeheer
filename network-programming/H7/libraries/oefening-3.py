@@ -1,11 +1,10 @@
-import tabulate
+import
 
 table = [
     ["SSH" , 22],
     ["HTTP", 80],
     ["FTP", 20]
 
-]
 
 header = ["Naam", "Poort"]
 
